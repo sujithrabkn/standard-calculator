@@ -154,12 +154,14 @@ for (item of buttons) {
 ## OUTPUT:
 
 ### calucator:
+![81](https://user-images.githubusercontent.com/119477857/215442960-1cc5365a-47d9-499f-b11f-c8c8dd059971.jpg)
 
-![output](./images/ex081.png)
+
 
 ### validator:
 
-![output](./images/ex082.png)
+![82](https://user-images.githubusercontent.com/119477857/215442998-279983ab-83fe-42de-a8e1-31a2bacbf513.jpg)
+
 
 ## Result:
 The program for designing simple calculator using javascript is executed successfully.
